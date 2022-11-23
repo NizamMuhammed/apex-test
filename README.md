@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# APEX Test Solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Made using React JS and ASP .NET API
 
 ## Available Scripts
 

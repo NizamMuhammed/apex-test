@@ -1,0 +1,16 @@
+.fuelPageContainer {
+  min-height: 87vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.amountBox {
+  max-width: 2rem;
+  text-align: center;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0.3rem;
+}

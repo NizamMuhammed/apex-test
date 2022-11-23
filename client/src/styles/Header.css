@@ -1,0 +1,28 @@
+.navbarContainer {
+  background-color: lime;
+  min-height: 4rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.appNameContainer {
+  padding: 1rem;
+  flex: 5;
+}
+
+.appName {
+  cursor: pointer;
+  max-width: 10%;
+}
+
+.aboutTextContainer {
+  padding: 1rem;
+  flex: 1;
+  text-align: end;
+  font-weight: 400;
+  max-width: 5rem;
+}
+
+.aboutText {
+  cursor: pointer;
+}

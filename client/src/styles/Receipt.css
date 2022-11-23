@@ -1,0 +1,48 @@
+.homePageContainer {
+  min-height: 87vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.receiptContainer {
+  min-width: 40%;
+  min-height: 70vh;
+  border-radius: 4px;
+  border-style: solid;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tablerow {
+  background-color: lightcyan;
+  margin: 1rem;
+  padding: 5rem;
+}
+
+.headingItem {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  min-width: 4rem;
+}
+
+.details {
+  text-align: left;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.detailItem {
+  display: flex;
+  flex-direction: row;
+}
+
+.text {
+  margin-left: 2rem;
+  font-weight: 500;
+}

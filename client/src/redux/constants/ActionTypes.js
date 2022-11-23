@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  CONFIRM_PUMP: "CONFIRM_PUMP",
+  CONFIRM_CARD: "CONFIRM_CARD",
+  CONFIRM_AMOUNT: "CONFIRM_AMOUNT",
+}

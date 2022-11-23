@@ -1,0 +1,34 @@
+.cardPageContainer {
+  min-height: 87vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.datesBox {
+  max-width: 2rem;
+  text-align: center;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0.3rem;
+}
+
+.nameBox {
+  min-width: 4rem;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0.3rem;
+  padding-left: 0.5rem;
+}
+
+.securityBox {
+  max-width: 2rem;
+  text-align: center;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0.3rem;
+  justify-content: center;
+  align-items: center;
+}

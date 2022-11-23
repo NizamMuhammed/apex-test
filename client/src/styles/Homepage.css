@@ -1,0 +1,41 @@
+.homePageContainer {
+  min-height: 87vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.formContainer {
+  min-width: 30%;
+  min-height: 50vh;
+  border-radius: 20px;
+  box-shadow: 1px 2px 9px #f4aab9;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: bisque;
+  border-color: bisque;
+  padding: 0.3rem;
+  border-radius: 0.4rem;
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.dropdownContainer {
+  min-width: 10rem;
+  border-radius: 0.2rem;
+  border-color: white;
+  box-shadow: 1px 1px 4px #f4aab9;
+  min-height: 2rem;
+  margin: 1rem;
+  padding-left: 0.5rem;
+}

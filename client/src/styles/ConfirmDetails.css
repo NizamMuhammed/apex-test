@@ -1,0 +1,18 @@
+.confirmPageContainer {
+  min-height: 87vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemText {
+  margin-right: 1rem;
+}

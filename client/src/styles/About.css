@@ -1,0 +1,12 @@
+.aboutPageContainer {
+  min-height: 87vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutText {
+  cursor: auto;
+}
